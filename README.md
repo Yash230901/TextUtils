@@ -11,7 +11,7 @@ This website is made using HTML,CSS,JAVASCRIPT,BOOTSTRAP and REACT JS.
 
 I have given dark or light mode for its navbar,later I will add full dark or light mode to website. 
 
-And later,I will add more functionality to this website. There are two pages of website 1. HOME 2.ABOUT. 
+And later,I will add more functionality to this website. There are two pages of website 1. HOME 2. ABOUT. 
 
 I have used React Router to move one page to another without page reloading. 
 
