@@ -2,6 +2,7 @@
 TextUtils
 
 This is the TextUtils website which is used for Text manipulation.
+
 You can type your text in text box. 
 There are some buttons available for your text manipulation like CONVERT TO UPPECASE, CONVERT TO LOWERCASE, REMOVE SPACES, CLEAR TEXT. 
 This website is made using HTML,CSS,JAVASCRIPT,BOOTSTRAP and REACT JS. 
